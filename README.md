@@ -13,3 +13,5 @@ Here are some of the features of The Halo Basic Prototype unit:
  • The red/blue/green slider values show up on the LCD screen as values between 0 and 255. Thus, to create "white", slide all of the sliders up to full so each of the red, blue and green values are 255. Yellow is achieved by sliding the red and green sliders to 255 while leaving the blue slider on 0. The User Guide included with each unit contains more information on these values and functions.
  • Each unit is upgradable to a later version, using the existing hardware.
  • The Halo is an incredible and versatile invention, with applications in cymatics, VJ/DJ productions, geometric art installations, and just about any situation where custom-color LED lighting is used!
+
+See "Halo Basic User Guide.pdf" for more information.
